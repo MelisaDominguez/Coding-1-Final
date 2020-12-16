@@ -1,0 +1,60 @@
+.navtext {
+    font-size: 20px;
+    font-style: italic;
+    font-family: lucida calligraphy;
+}
+
+.aboutmetitle {
+    text-align: center;
+    color:blueviolet;
+    font-family: lucida calligraphy;
+}
+
+.contacttitle {
+    text-align: center;
+    color:blueviolet;
+    font-family: lucida calligraphy;
+    text-decoration: underline;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    margin: 0;
+}
+
+h1 {
+    color:white;
+    font-family:lucida calligraphy; 
+    text-align: center;
+    border-style: solid;
+    padding: 20px;
+}
+
+p {
+    text-align: center;
+    width: 100%;
+    font-family: lucida sans regular;
+}
+
+.contactinfo {
+    color:black;
+    font-size: 24px;
+}
+
+.footertitle {
+    text-align:center;
+    padding: 20px;
+    color: purple;
+    font-family: lucida calligraphy;
+}
+
+.footerinfo {
+    text-decoration: none;
+    color:white;
+}
+
+.footer {
+    background-color: black;
+    height: 150px;
+}
